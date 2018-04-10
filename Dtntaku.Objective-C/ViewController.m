@@ -38,7 +38,6 @@
     first=nil;
     second=nil;
     third=nil;
-    op=0;
 }
 
 - (void)didReceiveMemoryWarning {
